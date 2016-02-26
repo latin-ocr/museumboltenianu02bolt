@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./museumboltenianu02bolt/museumboltenianu02bolt_0215.png"; bbox 0 0 1682 3052; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 685 3 1656 165">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 685 3 1656 165">
+     <span class='ocr_line' id='line_1_1' title="bbox 685 3 1656 165; baseline 0.003 -39"><span class='ocrx_word' id='word_1_1' title='bbox 685 53 1107 165; x_wconf 42' lang='lat' dir='ltr'><strong>&amp;Q</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1278 27 1315 55; x_wconf 76' lang='grc'>”</span> <span class='ocrx_word' id='word_1_3' title='bbox 1510 3 1656 130; x_wconf 19' lang='lat'>199³</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 238 228 1528 405">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 238 228 1528 405">
+     <span class='ocr_line' id='line_1_2' title="bbox 239 228 1528 290; baseline 0.003 -5"><span class='ocrx_word' id='word_1_4' title='bbox 239 231 347 285; x_wconf 83' lang='lat'><strong>483</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 400 235 433 283; x_wconf 85' lang='lat'><em>6</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 493 230 638 284; x_wconf 87' lang='lat' dir='ltr'><strong>Zwei</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 666 233 837 288; x_wconf 82' lang='lat' dir='ltr'>Steine</span> <span class='ocrx_word' id='word_1_8' title='bbox 879 234 980 287; x_wconf 67' lang='lat' dir='ltr'><strong>mit</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1008 228 1313 290; x_wconf 75' lang='lat' dir='ltr'><strong>Pholaden.</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1524 267 1528 270; x_wconf 59' lang='lat'>&gt;</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 238 329 1521 405; baseline 0.002 -21"><span class='ocrx_word' id='word_1_11' title='bbox 238 331 352 388; x_wconf 79' lang='lat'><strong>484</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 411 332 450 394; x_wconf 88' lang='lat'>7</span> <span class='ocrx_word' id='word_1_13' title='bbox 498 333 661 386; x_wconf 82' lang='lat' dir='ltr'><strong>Zwei</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 730 329 841 385; x_wconf 82' lang='lat' dir='ltr'>dito</span> <span class='ocrx_word' id='word_1_15' title='bbox 895 330 999 384; x_wconf 61' lang='lat' dir='ltr'><strong>mit</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 1037 329 1521 405; x_wconf 76' lang='lat' dir='ltr'>Lockenpholaden.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1159 532 1328 551">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1159 532 1328 551">
+     <span class='ocr_line' id='line_1_4' title="bbox 1159 532 1328 551; baseline 0.006 -6"><span class='ocrx_word' id='word_1_17' title='bbox 1159 532 1328 551; x_wconf 45' lang='lat' dir='ltr'><strong>„uffo—*—</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
